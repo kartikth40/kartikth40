@@ -62,7 +62,7 @@
 <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikth40&show_icons=true&theme=radical" width="40%" >
-  <img width="37%" align="right" alt="Mern" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" />
+  <img style="border-radius: 10px;" width="37%" align="right" alt="Mern" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" />
 </div>
 
 <br/>
