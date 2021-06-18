@@ -15,11 +15,11 @@
 <br/>
 
 ## 🧐 About Me
-- 🌱 &nbsp; < I’m currently learning React (Web Development) >
-- 💻 &nbsp; < Most of my projects are available on [Github](https://github.com/kartikth40?tab=repositories) />
-- 💬 &nbsp; < Want to work on project, feel free to contact me, I am happy to help />
-- 📚 &nbsp; < I love watching anime and ready for any adventure />
-- ⚡ &nbsp; < Fun fact: It took less code to send a man to the moon than to run a smartphone />
+- 🌱 &nbsp;  I’m currently learning React (Web Development) 
+- 💻 &nbsp;  Most of my projects are available on [Github](https://github.com/kartikth40?tab=repositories) 
+- 💬 &nbsp;  Want to work on project, feel free to contact me, I am happy to help
+- 📚 &nbsp;  I love watching anime and ready for any adventure 
+- ⚡ &nbsp;  Fun fact: It took less code to send a man to the moon than to run a smartphone 
 <br/>
 
 
@@ -62,7 +62,7 @@
 <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikth40&show_icons=true&theme=radical" width="40%" >
-  <img width="45%" align="right" alt="Mern" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" />
+  <img width="40%" align="right" alt="Mern" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" />
 </div>
 
 <br/>
