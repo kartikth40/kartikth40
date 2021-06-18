@@ -29,7 +29,6 @@
 <div align="center">
 <img src="https://github.com/kartikth40/kartikth40/blob/main/logo/python.png?raw=true" height="60" width="60">
 <img src="https://github.com/kartikth40/kartikth40/blob/main/logo/JS.png?raw=true" height="60" width="60">
-<img src="https://github.com/kartikth40/kartikth40/blob/main/logo/sass.png?raw=true" height="60" width="60">
 <img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" height="60" width="60">
 <img src="https://img.icons8.com/color/452/mongodb.png" height="60" width="60">
 
