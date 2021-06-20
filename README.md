@@ -17,9 +17,9 @@
 ## 🧐 About Me
 - 🌱 &nbsp;  I’m currently learning React (Web Development) 
 - 💻 &nbsp;  Most of my projects are available on [Github](https://github.com/kartikth40?tab=repositories) 
-- 💬 &nbsp;  Want to work on project, feel free to contact me, I am happy to help
-- 📚 &nbsp;  I love watching anime and ready for any adventure 
-- ⚡ &nbsp;  Fun fact: It took less code to send a man to the moon than to run a smartphone 
+- 💬 &nbsp;  Want to work on project, feel free to contact me, I am happy to help.
+- ⛩️ &nbsp;  I love watching anime and a big fan of Japanese culture.
+- ⚡ &nbsp;  Fun fact: The first computer bug was an actual bug 🐛. A moth, to be precise.
 <br/>
 
 
