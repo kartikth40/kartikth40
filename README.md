@@ -7,7 +7,7 @@
 
 <div align="center">
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/kartik-thakur-7538961b2/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/kartikth40/)
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://kartikthakur-me.web.app/)
 <!-- <img alt="followers" src="https://img.shields.io/github/followers/kartikthakur03?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/> -->
   
