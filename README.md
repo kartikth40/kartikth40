@@ -1,4 +1,4 @@
-<!-- ![](https://github.com/kartikth40/kartikth40/blob/main/images/banner.png) -->
+![banner (1)](https://user-images.githubusercontent.com/53307443/123813124-45494300-d912-11eb-80e2-f07d8339ac9c.png)
 
 <h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Kartik Thakur!</h1>
 
@@ -7,8 +7,8 @@
 
 <div align="center">
 
-<!-- [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/kartik-thakur-7538961b2/) -->
-<!-- [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://kartik-portfolio.web.app/) -->
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/kartik-thakur-7538961b2/)
+[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://kartikthakur-me.web.app/)
 <!-- <img alt="followers" src="https://img.shields.io/github/followers/kartikthakur03?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/> -->
   
 </div> 
