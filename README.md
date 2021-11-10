@@ -57,12 +57,4 @@
 
 <img src="https://activity-graph.herokuapp.com/graph?username=kartikth40&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" />
 
-## 💻 Top Languages:
 
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikth40&show_icons=true&theme=radical" width="40%" >
-  <img width="45%" align="right" alt="Mern" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
-</div>
-
-<br/>
