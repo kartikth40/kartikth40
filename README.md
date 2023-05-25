@@ -9,7 +9,7 @@
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/kartikth40/)
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://kartik-thakur.tech/)
-<!-- <img alt="followers" src="https://img.shields.io/github/followers/kartikthakurth40?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/> -->
+[<img alt="followers" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/Kartikth40)
   
 </div> 
 <br/>
@@ -27,12 +27,13 @@
 ## 💻 Languages and Tools:
 
 <div align="center">
-<img src="https://github.com/kartikth40/kartikth40/blob/main/logo/python.png?raw=true" height="60" width="60">
+
 <img src="https://github.com/kartikth40/kartikth40/blob/main/logo/JS.png?raw=true" height="60" width="60">
 <img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" height="60" width="60">
 <img src="https://img.icons8.com/color/452/mongodb.png" height="60" width="60">
 <img src="https://github.com/kartikth40/kartikth40/blob/main/logo/vs.png?raw=true" height="60" width="60">
 <img src="https://github.com/kartikth40/kartikth40/blob/main/logo/firebase.png?raw=true" height="60" width="60">
+<img src="https://github.com/kartikth40/kartikth40/blob/main/logo/next-js.png?raw=true" height="60" width="120">
 
 <br />
 <br />
@@ -43,6 +44,7 @@
 <img src="https://github.com/kartikth40/kartikth40/blob/main/logo/html.png?raw=true" height="60" width="60">
 <img src="https://github.com/kartikth40/kartikth40/blob/main/logo/terminal.png?raw=true" height="60" width="60">
 <img src="https://github.com/kartikth40/kartikth40/blob/main/logo/git.png?raw=true" height="60" width="60">
+<img src="https://github.com/kartikth40/kartikth40/blob/main/logo/typescript.png?raw=true" height="60" width="60">
 
 
 </div>
@@ -57,6 +59,6 @@
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=kartikth40&hide_border=true&theme=tokyonight" width="45%" >
 <br />
 
-<img src="https://activity-graph.herokuapp.com/graph?username=kartikth40&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" />
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=kartikth40&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" /> -->
 
 
