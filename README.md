@@ -2,7 +2,7 @@
 
 <h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Kartik Thakur!</h1>
 
-<h4 align="center">I am an undergraduate student 📚 with a passion for web development ❤️. I love exploring new tech 💻 and use them to build cool projects 🛠️.</h4>
+<h4 align="center">I am a frontend developer proficient in creating engaging and user-friendly web interfaces that leave users in awe <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzdpbDR4NWx4b2d3dW9xYnBtOXZ3c2RucndqbGh4cTBkMWJ5anpxZyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9Zw/LOnt6uqjD9OexmQJRB/giphy.gif" width="28"></h4>
 <br/>
 
 <div align="center">
@@ -15,7 +15,7 @@
 <br/>
 
 ## 🧐 About Me
-- 🌱 &nbsp;  I’m currently learning React (Web Development) 
+- 🌱 &nbsp;  I’m currently learning Next.js (Web Development) 
 - 💻 &nbsp;  Most of my projects are available on [Github](https://github.com/kartikth40?tab=repositories) 
 - 💬 &nbsp;  Want to work on project, feel free to contact me, I am happy to help.
 - ⛩️ &nbsp;  I love watching anime and a big fan of Japanese culture.
