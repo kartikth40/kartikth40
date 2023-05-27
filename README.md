@@ -1,10 +1,10 @@
 ![banner (1)](https://user-images.githubusercontent.com/53307443/123813124-45494300-d912-11eb-80e2-f07d8339ac9c.png)
+<!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> -->
+<h1 align="center">Hello fellow coders!, I'm Kartik<img src="https://media.giphy.com/media/J60klcdfVdpryi1u78/giphy.gif" width="48"></h4></h1>
 
-<h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Kartik Thakur!</h1>
-
-<h4 align="center">I am a frontend developer proficient in creating engaging and user-friendly web interfaces that leave users in awe <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzdpbDR4NWx4b2d3dW9xYnBtOXZ3c2RucndqbGh4cTBkMWJ5anpxZyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9Zw/LOnt6uqjD9OexmQJRB/giphy.gif" width="28"></h4>
+<h4 align="center">Welcome to my GitHub profile, the hub of my web development endeavors. 
 <br/>
-
+<br/>
 <div align="center">
 
 [<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/kartikth40/)
