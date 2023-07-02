@@ -19,7 +19,7 @@
 ## 🧐 About Me
 - 🌱 &nbsp;  I’m currently learning Next.js (Web Development) 
 - 💻 &nbsp;  Most of my projects are available on [Github](https://github.com/kartikth40?tab=repositories) 
-- 💬 &nbsp;  Want to work on project, feel free to contact me, I am happy to help.
+- 💬 &nbsp;  Want to work on a project, feel free to contact me, I am happy to help.
 - ⛩️ &nbsp;  I love watching anime and a big fan of Japanese culture.
 - ⚡ &nbsp;  Fun fact: The first computer bug was an actual bug 🐛. A moth, to be precise.
 <br/>
