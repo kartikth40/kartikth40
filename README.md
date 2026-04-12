@@ -18,7 +18,7 @@
 
 - 💼 &nbsp; SDE-2 at **Sopra Banking Software**, working on PAYCE - a payment cloud engine for the EU region
 - 🛠️ &nbsp; Day-to-day: **Java · Spring Boot · Angular · Kafka · Kubernetes · MongoDB**
-- 🚀 &nbsp; Built [Purrfect Focus](https://chromewebstore.google.com/detail/aobapnhgpjlldncjopmbbfeoomombhel) — a Chrome extension with 1,500+ weekly active users across 20+ countries
+- 🚀 &nbsp; Built [Purrfect Focus](https://chromewebstore.google.com/detail/aobapnhgpjlldncjopmbbfeoomombhel) - a Chrome extension with 1,500+ weekly active users across 20+ countries
 - 🌐 &nbsp; Portfolio: [kartikthakur.dev](https://kartikthakur.dev)
 - 📫 &nbsp; Reach me at **kartikthakur.2409@gmail.com**
 
