@@ -46,8 +46,3 @@
 </div>
 
 <br/>
-
-## GitHub Stats
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kartikth40&show_icons=true&hide_border=true&theme=tokyonight" width="45%" align="right">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kartikth40&hide_border=true&theme=tokyonight" width="45%">
